@@ -1,5 +1,7 @@
 
 ![explore page](https://github.com/maxif210/AreaProp-Next-Chakra/blob/main/AreaProp-Home.png)
+![explore page](https://github.com/maxif210/AreaProp-Next-Chakra/blob/main/AreaProp-Search.png)
+
 
 
 
